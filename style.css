@@ -1,3 +1,6 @@
 body{
     background-color: coral;
 }
+img{
+    border-style: dotted;
+}
